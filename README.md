@@ -26,8 +26,11 @@ Grab Gold 150
 - First line specifies the size of the grid (if the grid is 25 x 25 first line is 25).
 - Second line specifies the number of arrows (say 3).
 - Every subsequent line specifies one pit/gold or wumpus location.
+
   "p 2 5" specifies a pit at (2,5) location
+
   "w 3 7" specifies a wumpus at (3,7) location
+
   "g 8 4" specifies a GOLD at (8,4) location
 
 A valid environment file is as below.
