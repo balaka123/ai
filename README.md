@@ -31,7 +31,7 @@ Grab Gold 150
   "g 8 4" specifies a GOLD at (8,4) location
 
 A valid environment file is as below.
-20\n
+20
 5
 p 5 5
 w 2 2
