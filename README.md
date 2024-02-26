@@ -34,15 +34,26 @@ Grab Gold 150
   "g 8 4" specifies a GOLD at (8,4) location
 
 A valid environment file is as below.
+
 20
+
 5
+
 p 5 5
+
 w 2 2
+
 p 4 2
+
 p 6 2
+
 g 10 5
+
 w 6 3
+
 w 9 9
+
 p 11 3
+
 Here agent is in 20 x 20 tile with 5 arrows. There are 4 pits and 3 wumpuses. Gold is at (10,5)
 3. Code should output the moves taken by the agent
