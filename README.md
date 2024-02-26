@@ -56,4 +56,5 @@ w 9 9
 p 11 3
 
 Here agent is in 20 x 20 tile with 5 arrows. There are 4 pits and 3 wumpuses. Gold is at (10,5)
+
 3. Code should output the moves taken by the agent
