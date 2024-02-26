@@ -22,7 +22,7 @@ Grab Gold 150
 
 1.1 Logistic
 1. Write code in PYTHON. It should run on version 3 and above without any errors.
-2. Code should take a file as a parameter to set the environment (say \env1.txt").
+2. Code should take a file as a parameter to set the environment (say \env1.txt").
 - First line species the size of the grid (if the grid is 25  25 rst line is 25).
 - Second line species the number of arrows (say 3).
 - Every subsequent line species one pit/gold or wumpus location.
